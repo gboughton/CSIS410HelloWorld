@@ -10,6 +10,5 @@ public class HelloWorld
     public static void main()
     {
         System.out.println("Hello World");
-        System.out.println("Winter is coming! It just doesn't feel like it.");
     }
 }
